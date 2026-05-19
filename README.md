@@ -18,4 +18,4 @@ Desenvolvedor com experiência em sistemas corporativos com **Delphi** e, nos pr
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-nascimento-lopes-139b752ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-nascimento-lopes-139b752ba/) 
